@@ -1,0 +1,11 @@
+/* bugSolution.css */
+
+ul {
+  padding: 20px;
+}
+
+li {
+  padding: 0;
+  /* Reset padding for list items */
+  margin-bottom: 10px;
+} 
